@@ -1,7 +1,7 @@
-# 포트폴리오 — 박영우 (YoungWoo Park)
+# 포트폴리오 — 박영우 (YoungWoo Park) 
 
-
-> Industrial Engineering student · Quality Management / Data Analysis aspirant
+<img src="photo.jpg" alt="박영우 증명사진" width="150"/>
+> Industrial Engineering student · Quality Management / Data Analysis aspirant  
 
 **GitHub:** https://github.com/qkrduddn/portfolio-영우
 
@@ -43,4 +43,4 @@
 - 이메일: 0woo_park1103@naver.com
 - 전화번호: 010-xxxx-xxxx
 
-<img src="website/assets/photo.jpg" alt="박영우 증명사진" width="150"/>
+
