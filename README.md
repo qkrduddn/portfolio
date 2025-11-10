@@ -3,7 +3,7 @@
 <img src="photo.jpg" alt="박영우 증명사진" width="150"/>
 > Industrial Engineering student · Quality Management / Data Analysis aspirant  
 
-**GitHub:** https://github.com/qkrduddn/portfolio-영우](https://github.com/qkrduddn/portfolio
+**GitHub:** https://github.com/qkrduddn/portfolio
 
 
 ## 소개
