@@ -42,3 +42,5 @@
 ## 연락처
 - 이메일: 0woo_park1103@naver.com
 - 전화번호: 010-xxxx-xxxx
+
+<img src="website/assets/photo.jpg" alt="박영우 증명사진" width="150"/>
